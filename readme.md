@@ -4,6 +4,9 @@
 
 <p align="left">Hello, my name is Raphael, I'm am a Computer Science student from Brazil</p>
 
+![image](https://github.com/user-attachments/assets/b1610898-cba5-4505-8d23-75a75e7fbc9f)
+
+
 <div align="left">
   <a href="https://www.instagram.com/lazy_lopes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
