@@ -1,6 +1,3 @@
-<h1 align="left">LazyLopes</h1>
-
-###
 
 <p align="left">Hello, my name is Raphael, I'm am a Computer Science student from Brazil</p>
 
