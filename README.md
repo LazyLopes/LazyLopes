@@ -1,5 +1,6 @@
 
-<img width="736" height="222" alt="download (2)" src="https://github.com/user-attachments/assets/f2bcb11b-ef25-46c3-a6a5-e570bbf7af7f" />
+<img width="1104" height="375" alt="Black" src="https://github.com/user-attachments/assets/5e0b5750-f460-4daf-8c05-c8005e501977" />
+
 
 ## Yo fam, I'm LazyLopes.
 
