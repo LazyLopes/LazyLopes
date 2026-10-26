@@ -1,6 +1,4 @@
-
-<img width="1104" height="375" alt="Black" src="https://github.com/user-attachments/assets/5e0b5750-f460-4daf-8c05-c8005e501977" />
-
+<img width="1104" height="296" alt="aaaa" src="https://github.com/user-attachments/assets/de3988b0-3e66-4c5c-96c8-5591b8ee8df7" />
 
 ## Yo fam, I'm LazyLopes.
 
