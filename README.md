@@ -1,4 +1,4 @@
-<img width="1199" height="293" alt="image" src="https://github.com/user-attachments/assets/dbc0ba85-5355-4a03-9b5b-7ed3c0884d65" />
+<img width="1199" height="292" alt="banner lazylopes" src="https://github.com/user-attachments/assets/668e0f53-6318-4500-8d6e-cdeb15fa9e93" />
 
 ## Yo fam, I'm LazyLopes.
 
