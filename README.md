@@ -1,4 +1,4 @@
-<img width="1104" height="296" alt="aaaa" src="https://github.com/user-attachments/assets/de3988b0-3e66-4c5c-96c8-5591b8ee8df7" />
+<img width="1199" height="293" alt="image" src="https://github.com/user-attachments/assets/dbc0ba85-5355-4a03-9b5b-7ed3c0884d65" />
 
 ## Yo fam, I'm LazyLopes.
 
